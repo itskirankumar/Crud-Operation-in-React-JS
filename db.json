@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "kirankumar I Halagannanavar",
+      "password": "Kirankumar@9611",
+      "email": "itskirankumar18@gmail.com",
+      "phone": "9611108506",
+      "id": 1
+    },
+    {
+      "username": "Rajesh Valmiki",
+      "password": "Rajesh@745 ",
+      "email": "rajesh2342@gmail.com",
+      "phone": "7544402560",
+      "id": 3
+    },
+    {
+      "username": "UdayKumar",
+      "password": "Uday@123",
+      "email": "udaykumar@gmail.com",
+      "phone": "6344457894",
+      "id": 4
+    },
+    {
+      "username": "Ramesh Menasinhal",
+      "password": "Ramesh@456",
+      "email": "ramesh@gmail.com",
+      "phone": "9866454789",
+      "id": 5
+    },
+    {
+      "username": "Arunkumar",
+      "password": "Arunkumar@94545",
+      "email": "arunkumar@gmail.com",
+      "phone": "6363012003",
+      "id": 6
+    },
+    {
+      "username": "H Mallikarjun",
+      "password": "Mallikarnuj@34353",
+      "email": "hmallikarjun34@gmail.com",
+      "phone": "9611107845",
+      "id": 7
+    }
+  ]
+}
